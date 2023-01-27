@@ -1,8 +1,13 @@
-=======
-Porcentaje 41%-50%
-(En este rango no hay porcentajes)
-=======
 Las carpetas de ocupación de disco de 2% a 9% son:
 tmpfs
 /dev/loop7
+=======
+Carpetas de ocupación de disco de 10% a 35%:
+/dev/sda1
+/dev/loop1
+/dev/loop0
+tmpfs
+=======
+Porcentaje 41%-50%
+(En este rango no hay porcentajes)
 =======
