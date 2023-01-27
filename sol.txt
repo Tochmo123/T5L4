@@ -1,5 +1,8 @@
-<<<<<<< HEAD
+=======
 cat disc.txt | grep "[40-51]%" | awk '{if ($5 >= 41 && $5 <= 50) print $1}' >> david.txt
 Porcentaje 41%-50%
 =======
->>>>>>> 98b8f1b201e7b67d830b0fe7bb2e99fe4c173b3a
+Las carpetas de ocupación de disco de 2% a 9% son:
+tmpfs
+/dev/loop7
+=======
