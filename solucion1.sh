@@ -13,7 +13,7 @@ do
     else
     if [ $porcentaje -ge 10 ] && [ $porcentaje -le 35 ]
     then
-    echo "$ficheros"
+    echo "$ficheros" >> sol.txt
     fi
     fi
 done
