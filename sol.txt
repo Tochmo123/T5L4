@@ -18,3 +18,11 @@ tmpfs
 Porcentaje 41%-50%
 (En este rango no hay porcentajes)
 =======
+
+Porcentaje de 51-100%
+/dev/loop2
+/dev/loop3
+/dev/loop4
+/dev/loop5
+/dev/loop6
+===========
