@@ -1,3 +1,10 @@
+=======
+Carpetas de ocupación de disco de 0% a 1%:
+udev
+tmpfs
+tmpfs
+tmpfs
+=======
 Las carpetas de ocupación de disco de 2% a 9% son:
 tmpfs
 /dev/loop7
